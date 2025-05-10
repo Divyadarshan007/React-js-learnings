@@ -1,11 +1,9 @@
 import Button from "./button";
 
-const Card = (props) => { 
-    console.log(props);
-    
+const Card = (props) => {
     return (
-        <div className="col-4">
-            <div className="card my-5" style={{ width: '18rem' }}>
+        <div className="col-lg-4 col-md-6 col-12">
+            <div className="card ">
                 <div className="card-image">
                     <img src={props.image} className="card-img-top" alt="..." />
                 </div>

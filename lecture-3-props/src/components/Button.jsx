@@ -1,6 +1,6 @@
 const Button = (props) => {
   return (
-    <button className={`btn btn-${props.color}`}>See More</button>
+    <button className={`btn alert alert-${props.color} btn-${props.color}`}>See More</button>
   )
 }
 
