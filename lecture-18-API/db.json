@@ -1,22 +1,3 @@
 {
-    "users": [
-        {
-            "id": "123",
-            "name":"kaushal varma",
-            "age":"25",
-            "course":"FSD"
-        },
-        {
-            "id": "345",
-            "name":"Suraj Yadav",
-            "age":"25",
-            "course":"FSD"
-        },
-        {
-            "id": "567",
-            "name":"Dev",
-            "age":"25",
-            "course":"FSD"
-        }
-    ]
+  "users": []
 }
