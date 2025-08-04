@@ -6,6 +6,7 @@ const App = () => {
     name: '', age: ''
   })
 
+  console.log(idRef)
   const URL = "http://localhost:8175/users"
   const fetchUser = async () => {
     const res = await fetch(URL);

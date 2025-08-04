@@ -1,3 +1,10 @@
 {
-  "users": []
+  "users": [
+    {
+      "id": "6bec",
+      "name": "dev",
+      "age": "23",
+      "course": "FSD"
+    }
+  ]
 }
